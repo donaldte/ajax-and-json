@@ -1,0 +1,29 @@
+[
+    {"name": "tedom",
+      "id":1,
+      "school": "Polythec",
+      "matiere":{
+        "faibleMoyenne":["histoire"]
+
+    }
+    },
+    {"name": "donald",
+        "id":2,
+        "school": "Polythec",
+        "matiere":{
+          "faibleMoyenne":["englais","histoire"]
+
+      }
+    },
+    {"name": "franc",
+        "id":3,
+        "school": "Polythec",
+        "matiere":{
+          "faibleMoyenne":["French","english"]
+
+      }
+      }
+  
+
+]
+    

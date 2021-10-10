@@ -1,0 +1,29 @@
+[
+    {"name": "sores",
+      "id":1,
+      "school": "Fgi",
+      "matiere":{
+                    "faibleMoyenne":["math","francais","histoire"]
+
+                }
+    },
+    {"name": "jamaiel",
+        "id":2,
+        "school": "fgi",
+        "matiere":{
+          "faibleMoyenne":["francais","histoire"]
+
+      }
+    },
+    {"name": "asomle",
+        "id":3,
+        "school": "fgi",
+        "matiere":{
+          "faibleMoyenne":["math","histoire"]
+
+      }
+      }
+  
+
+]
+    
